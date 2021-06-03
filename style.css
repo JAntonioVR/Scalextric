@@ -1,0 +1,25 @@
+
+#Messages{
+    position: absolute; 
+    left: 4em; 
+    top:1em;
+    background-color:lightgreen;
+    padding: 1em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+#clasificacion{
+    position: absolute; 
+    left: 4em; 
+    bottom:1em;
+    background-color: rgb(53, 38, 38);
+    color: whitesmoke;
+    padding: 0.5em;
+    border-radius: 5%;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
